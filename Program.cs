@@ -54,5 +54,9 @@ namespace _1
             stdout.Close();
             Console.WriteLine("Program end!");
         }
+        void newFunction()
+        {
+            bool ebat;
+        }
     }
 }
