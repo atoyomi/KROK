@@ -11,8 +11,9 @@ namespace _1
     {
         static void Main()
         {
-            StreamReader stdin = new StreamReader(@"f:\std.in");
-            StreamWriter stdout = new StreamWriter(@"f:\std.out");
+            Console.WriteLine("Program start!");
+            StreamReader stdin = new StreamReader(@"d:\std.in");
+            StreamWriter stdout = new StreamWriter(@"d:\std.out");
 
             int lenght = int.Parse(stdin.ReadLine());
 
