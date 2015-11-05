@@ -11,8 +11,8 @@ namespace _1
     {
         static void Main()
         {
-            StreamReader stdin = new StreamReader(@"d:\std.in");
-            StreamWriter stdout = new StreamWriter(@"d:\std.out");
+            StreamReader stdin = new StreamReader(@"f:\std.in");
+            StreamWriter stdout = new StreamWriter(@"f:\std.out");
 
             int lenght = int.Parse(stdin.ReadLine());
 
@@ -52,6 +52,7 @@ namespace _1
             }
             stdin.Close();
             stdout.Close();
+            Console.WriteLine("Program end!");
         }
     }
 }

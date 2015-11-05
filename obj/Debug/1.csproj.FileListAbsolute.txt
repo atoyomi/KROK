@@ -10,3 +10,9 @@ D:\GitHub\KROK\obj\Debug\1.pdb
 D:\GitHub\KROK\bin\Debug\1.exe
 D:\GitHub\KROK\bin\Debug\1.pdb
 D:\GitHub\KROK\obj\Debug\1.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\KROK\obj\Debug\1.pdb
+E:\Documents\GitHub\KROK\bin\Debug\1.exe.config
+E:\Documents\GitHub\KROK\bin\Debug\1.exe
+E:\Documents\GitHub\KROK\bin\Debug\1.pdb
+E:\Documents\GitHub\KROK\obj\Debug\1.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\KROK\obj\Debug\1.exe

@@ -2,3 +2,7 @@
 *.config
 bin/Debug/1.vshost.exe.manifest
 *.sln
+obj/Debug/1.csproj.FileListAbsolute.txt
+obj/Debug/1.csproj.FileListAbsolute.txt
+*.pdb
+*.cache
