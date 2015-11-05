@@ -1,0 +1,4 @@
+*.exe
+*.config
+bin/Debug/1.vshost.exe.manifest
+*.sln
