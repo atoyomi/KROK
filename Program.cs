@@ -56,6 +56,7 @@ namespace _1
             stdin.Close();
             stdout.Close();
             Console.WriteLine("Program end!");
+            //comment by Vlad v2
         }
     }
 }
