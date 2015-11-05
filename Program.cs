@@ -12,6 +12,7 @@ namespace _1
         static void Main()
         {
             //test branch
+            //comment by Vlad
             Console.WriteLine("Program start!");
             StreamReader stdin = new StreamReader(@"d:\std.in");
             StreamWriter stdout = new StreamWriter(@"d:\std.out");
